@@ -30,6 +30,8 @@ not: UQBm3vnS9C8mjaAUl_lNP6mHExoI20u64O7GXq5rfq5NztiX
 
 # Credits
 Coder: sgysh3nka
+
+
 Special thanks: [kartohka000](https://t.me/Xleb221), [noordelcraft](https://t.me/Noordelcraft)
 
 
